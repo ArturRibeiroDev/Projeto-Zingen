@@ -54,8 +54,8 @@
     content: "";
     position: absolute;
     border-radius: inherit;
-    inset: 1.5px;
-    background-color: var(--bg-color);
+    inset: 1px;
+    background-color: var(--surface-color);
   }
 
   &::after { 
